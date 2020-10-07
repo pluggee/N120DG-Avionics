@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Aircraft_Components)(type Legacy)(uri "/Users/sherif/git/kicad-aircraft-components/Aircraft Components.lib")(options "")(descr ""))
+  (lib (name Garmin)(type Legacy)(uri /Users/sherif/git/kicad-aircraft-components/Garmin.lib)(options "")(descr ""))
+)
